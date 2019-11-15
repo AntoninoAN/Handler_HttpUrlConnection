@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandlerCancellation</string>
+    <string name="btn_text_get_a_contact">Get a contact</string>
+    <string name="btn_text_don_t_waste_my_data">Don\'t waste my data!</string>
+</resources>
